@@ -1,2 +1,2 @@
-# Creating AWS Three Tier VPC Architecture Infra-structure As Code using Terraform
+# Creating AWS Three Tier VPC Architecture Infra-structure As Code (IAC) using Terraform
 
